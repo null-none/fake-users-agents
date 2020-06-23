@@ -26,5 +26,5 @@ client.random()
     "screenHeight": 1080,
     "screenWidth": 1920,
     "weight": 0.0007918803225303125
-  }
+}
 ```
